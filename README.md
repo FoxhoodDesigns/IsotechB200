@@ -10,6 +10,8 @@ Contains a sample code showing how to use the Interface with a digital Microcont
 # EAGLE
 Contains Autodesk Eagle board files. Which includes circuit schematic and PCB design.
 
+Note: For possible Eagle library dependancies please view this repository: https://github.com/VoswijkC/FHD-Libraries
+
 # LTSPICE
 Contains the LTSPICE Simulation file used for simulating the analog component of the Interface board
 
@@ -18,7 +20,5 @@ Contains the PDF and source LaTeX files behind the research. For documentation r
 
 
 
-
-
-
-Note: For possible Eagle library dependancies please view this repository: https://github.com/VoswijkC/FHD-Libraries
+All work presently contained within this repository is made by the original AUAS team:
+Chiel Voswijk, Kwint van den Berg and Niels Hupkens.
